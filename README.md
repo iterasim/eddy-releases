@@ -11,7 +11,7 @@
 [![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Windows-8b5cf6)](#download)
 [![Website](https://img.shields.io/badge/web-iterasim.in-0ea5e9)](https://www.iterasim.in/eddy.html)
 
-[**Download**](#download) · [Documentation](https://iterasim.github.io/eddy-docs/) · [Discussions](https://github.com/iterasim/eddy-community/discussions) · [Website](https://www.iterasim.in/eddy.html)
+[**Download**](#download) · [Documentation](https://docs.iterasim.in/) · [Discussions](https://github.com/iterasim/eddy-community/discussions) · [Website](https://www.iterasim.in/eddy.html)
 
 </div>
 
@@ -92,7 +92,7 @@ see [iterasim.in](https://www.iterasim.in/eddy.html#pricing).
 ## Support
 
 - **Questions, bugs, feature requests:** [Discussions](https://github.com/iterasim/eddy-community/discussions)
-- **Documentation:** [iterasim.github.io/eddy-docs](https://iterasim.github.io/eddy-docs/)
+- **Documentation:** [docs.iterasim.in](https://docs.iterasim.in/)
 - **Email:** info@iterasim.in
 
 When reporting a bug, include your distribution and version, your OpenFOAM
